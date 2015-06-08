@@ -2,7 +2,7 @@
 	"application": {
 		"title": "dataview",
 		"meta_title": "Example application",
-		"meta_description": "Meteor KKKKitchen - example application",
+		"meta_description": "Meteor Kitchen - example application",
 		"theme": "bootswatch-darkly",
 		"collections": [
 			{
